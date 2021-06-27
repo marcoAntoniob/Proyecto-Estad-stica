@@ -6,7 +6,7 @@ output:
 ---
 
 ---
-title: "S1_Informe"
+title: "S1_Informe_1"
 output:
   html_document:
     df_print: paged
