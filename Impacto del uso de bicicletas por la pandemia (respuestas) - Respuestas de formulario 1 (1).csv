@@ -1,0 +1,308 @@
+Marca temporal,Sexo,Edad ,Peso en kg (A inicios de la pandemia) Ejemplo: 50.5,Peso en kg (En este momento) Ejemplo: 50.5,Estatura en metros (A inicios de la pandemia) Ejemplo: 1.75,Estatura en metros (En este momento) Ejemplo: 1.75,¿Haces algún deporte?,¿Montas bicicleta?,¿Practicas alguno de estos deportes? Puedes marcar mas de uno.,¿Cuantas horas a la semana le/les dedicas?,¿Con que intensidad lo/los realizas?,¿Cual fue tu principal incentivo para usar la bicicleta?,¿Cuantas horas a la semana le dedicas?,¿Con que intensidad lo practicas?,¿Cuanto has invertido en soles? (Equipo y Bicicleta) Ej: 1500,¿Cual es el tipo de bicicleta que usas regularmente?,¿En que distrito sueles bicicletear?,¿Este distrito cuenta con ciclovías?,¿Sufres de alguno de estos desordenes seguidamente?,¿Consideras que ha/han aumentado por la pandemia? Si respondiste que no deja este rubro SIN marcar,"¿Consideras que montar bicicleta te ha ayudado a disminuir los síntomas de migraña, insomnio o cansancio? Si es que NO montas bicicleta. ¿Que tanto piensas que te ayudaría?"
+7/06/2021 16:56:42,Hombre,19,83,84,1.70,1.70,Sí,Si,Otro,6,6,de forma recreativa,5,7,10000,Híbrida,Miraflores,Sí,"Insomnio, Cansancio",Sí,6
+7/06/2021 17:04:12,Mujer,20,58,58,1.62,1.62,Sí,Si,Básquetbol,3,5,para mejorar el estado físico,3,8,1000,Montañera,Miraflores,Sí,Cansancio,Sí,4
+7/06/2021 17:04:33,Hombre,19,62,67,1.75 ,1.78,Sí,Si,"Futbol, Atletismo, Otro",7,9,para mejorar el estado físico,3,8,1000,Uso más de un tipo,Santiago de Surco,Sí,Cansancio,Sí,4
+7/06/2021 17:43:20,Hombre,19,85,75,1.76,1.76,Sí,Si,"Natación, Otro",6,9,para mejorar el estado físico,7,10,3000,Montañera,Ate Vitarte,No,Insomnio,Sí,3
+7/06/2021 17:52:32,Hombre,19,68,82,1.70,1.70,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,5
+7/06/2021 18:07:46,Hombre,22,70,78,1.74,1.74,Sí,Si,"Natación, Futbol",8,8,por que es ecológico,3,6,3000,BMX,San Borja,Sí,"Migrañas, Insomnio, Cansancio",No,5
+7/06/2021 18:12:41,Mujer,19,49,49,1.54,1.54,Sí,Si,"Natación, Otro",3,6,de forma recreativa,4,9,3000,Montañera,San Miguel,Sí,Cansancio,Sí,4
+7/06/2021 18:24:59,Hombre,23,60,66,1.78,1.78,Sí,No,"Futbol, Atletismo, Otro",8,8,,,,,,,,Insomnio,No,1
+7/06/2021 18:29:01,Hombre,21,85.3,90.3,1.79,1.79,No,,,,,,,,,,,,Insomnio,No,4
+7/06/2021 18:37:11,Mujer,21,48,55,1.65,1.65,Sí,Si,Otro,1,8,de forma recreativa,1,7,4000,Montañera,Los Olivos,No,Insomnio,Sí,6
+7/06/2021 19:05:20,Hombre,21,52,56,1.67,1.67,Sí,Si,"Básquetbol, Otro",2,7,de forma recreativa,0.5,2,500,Montañera,Independencia,Sí,Cansancio,Sí,2
+7/06/2021 19:10:40,Hombre,18,80,80,1.71,1.71,Sí,Si,Natación,0.5,5,de forma recreativa,2,5,1000,Montañera,Santiago de Surco,Sí,Migrañas,No,4
+7/06/2021 19:15:04,Hombre,20,53.7,54.5,1.80,1.80,No,,,,,,,,,,,,Cansancio,Sí,3
+7/06/2021 19:22:36,Hombre,18,47,56,1.61,1.63,Sí,Si,Futbol,1,4,Otro medio de transporte,1,4,500,Montañera,Barranco,Sí,"Insomnio, Cansancio",Sí,2
+7/06/2021 20:26:16,Mujer,23,65,68,1.61 ,1.61 ,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",Sí,3
+7/06/2021 20:29:33,Mujer,30,58,64,1.63,1.63,No,,,,,,,,,,,,Cansancio,Sí,4
+7/06/2021 20:37:47,Hombre,24,88,83,1.77,1.77,Sí,Si,Otro,3,8,Otro medio de transporte,3,8,2500,Híbrida,La Molina,Sí,Cansancio,No,6
+7/06/2021 20:38:37,Mujer,18,68,70,1.64,1.65,Sí,No,Otro,1,7,,,,,,,,"Insomnio, Cansancio",Sí,1
+7/06/2021 20:53:41,Hombre,17,70,73,1.63,1.63,No,,,,,,,,,,,,Cansancio,No,3
+7/06/2021 21:19:08,Mujer,22,52,54.5,1.58,1.58 ,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",Sí,4
+7/06/2021 21:29:57,Hombre,18,65,75,1.75,1.78,Sí,No,"Natación, Futbol",0.5,5,,,,,,,,Insomnio,Sí,3
+7/06/2021 21:44:40,Hombre,20,49.0,53.5,1.71,1.71,No,,,,,,,,,,,,Cansancio,No,4
+7/06/2021 21:47:49,Mujer,18,57.6,54.1,1.60,1.60,No,,,,,,,,,,,,Cansancio,Sí,4
+7/06/2021 21:51:16,Hombre,51,88.0,78.8,1.65,1.65,No,,,,,,,,,,,,Cansancio,No,4
+7/06/2021 21:54:20,Mujer,51,48,50.4,1.50,1.50,No,,,,,,,,,,,,Cansancio,Sí,3
+7/06/2021 21:56:20,Hombre,23,60.4,62.1,1.76,1.76,Sí,Si,Futbol,5,8,para mejorar el estado físico,3,6,750,Montañera,San Isidro,Sí,Cansancio,No,6
+7/06/2021 21:57:05,Mujer,19,52.4,53.5,1.68,1.68,No,,,,,,,,,,,,Cansancio,No,5
+7/06/2021 22:05:48,Hombre,80,78.9,76.3,1.74,1.74,Sí,Si,Futbol,3,8,para mejorar el estado físico,3,8,1000,Montañera,La Molina,Sí,Cansancio,No,6
+7/06/2021 22:11:36,Hombre,37,74,78,1.65,1.65,No,,,,,,,,,,,,Cansancio,Sí,5
+7/06/2021 22:13:08,Hombre,22,56,57,1.69,1.69,No,,,,,,,,,,,,Insomnio,Sí,2
+7/06/2021 22:20:25,Mujer,18,54.6,56,1.57,1.57,No,,,,,,,,,,,,Cansancio,No,2
+7/06/2021 22:24:38,Hombre,30,67.4 ,69.8,1.65,1.65,Sí,No,Futbol,2,6,,,,,,,,Cansancio,Sí,3
+7/06/2021 22:27:33,Hombre,20,53.5,53.5,1.69,1.7,Sí,No,Otro,3,10,,,,,,,,Cansancio,No,4
+7/06/2021 22:28:37,Hombre,23,63,65,1.75,1.75,Sí,Si,Futbol,2,6,Otro medio de transporte,1,5,300,Montañera,Cieneguilla,No,Cansancio,Sí,5
+7/06/2021 22:30:10,Mujer,22,56,56.5,1.54,1.54,No,,,,,,,,,,,,Migrañas,Sí,5
+7/06/2021 22:32:19,Hombre,19,51.4,51.2,1.66,1.68,Sí,Si,Atletismo,4,7,para mejorar el estado físico,2,9,400,Montañera,Miraflores,Sí,Cansancio,No,6
+7/06/2021 22:33:58,Hombre,28,64.2,62.5,1.67,1.67,Sí,Si,Futbol,2,6,para mejorar el estado físico,1,6,250,Paseo,Barranco,Sí,Insomnio,No,5
+7/06/2021 22:43:29,Hombre,24,60.3,57.6,1.65,1.65,Sí,Si,Natación,2,8,Otro medio de transporte,3,8,350,Montañera,Barranco,Sí,Cansancio,No,5
+8/06/2021 0:42:27,Hombre,22,50,49,1.58,1.58,Sí,Si,Otro,2,6,Otro medio de transporte,3,6,2700,Eléctrica,La Molina,Sí,"Insomnio, Cansancio",Sí,2
+8/06/2021 1:57:44,Mujer,23,65,68,1.61 ,1.61 ,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",Sí,3
+8/06/2021 13:38:21,Hombre,20,73,78,1.72,1.75,Sí,Si,"Básquetbol, Atletismo",1,2,Otro medio de transporte,1,3,1000,Montañera,San Miguel,Sí,Cansancio,Sí,6
+8/06/2021 21:02:01,Hombre,18,60,63,1.78,1.78,Sí,Si,"Futbol, Otro",3,5,de forma recreativa,2,8,2000,Montañera,Miraflores,Sí,Cansancio,Sí,5
+9/06/2021 8:02:08,Hombre,28,88,91,1.80,1.80,No,,,,,,,,,,,,Migrañas,Sí,5
+9/06/2021 8:33:01,Mujer,20,52,55,1.56,1.56,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,4
+9/06/2021 9:26:00,Hombre,26,58,62,1.65,1.65,No,,,,,,,,,,,,Cansancio,No,5
+9/06/2021 9:42:02,Mujer,19,55,58,1.64,1.64,No,,,,,,,,,,,,Cansancio,Sí,6
+9/06/2021 9:45:58,Mujer,20,65,71,1.59,1.59,Sí,Si,Otro,4,7,de forma recreativa,1,5,600,Paseo,Comas,No,Cansancio,Sí,4
+9/06/2021 10:30:17,Mujer,17,50,50,1.58,1.59,Sí,Si,"Básquetbol, Otro",3,6,de forma recreativa,3,7,Nd,Rutera,Los Olivos,Sí,Cansancio,No,6
+9/06/2021 22:22:52,Hombre,19,72,72,1.7,1.7,Sí,No,Natación,8,8,,,,,,,,Cansancio,No,3
+9/06/2021 22:27:47,Hombre,22,60,65,1.73,1.73,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,6
+9/06/2021 22:29:29,Hombre,19,115,112,1.81,1.82,No,,,,,,,,,,,,"Migrañas, Cansancio",No,5
+10/06/2021 12:54:12,Hombre,19,62,67,1.75,1.77,Sí,Si,"Futbol, Atletismo, Otro",6,8,para mejorar el estado físico,4,8,1000,Uso más de un tipo,Santiago de Surco,Sí,Cansancio,No,4
+10/06/2021 18:24:09,Mujer,20,60,61,1.64,1.64,No,,,,,,,,,,,,Cansancio,Sí,3
+10/06/2021 18:28:27,Hombre,19,60.7,56.8,1.71,1.71,Sí,Si,Otro,3,8,de forma recreativa,3,8,500,BMX,Miraflores,Sí,No sufro alguno de estos desordenes,No,5
+10/06/2021 18:54:03,Mujer,21,51,53,1.54,1.54,Sí,Si,Otro,2,4,de forma recreativa,3,6,1400,Montañera,Chorrillos,No,Cansancio,Sí,4
+10/06/2021 18:54:32,Hombre,21,80,86,1.81,1.81,No,,,,,,,,,,,,Cansancio,Sí,5
+10/06/2021 19:12:41,Hombre,18,103,88,1.82,1.83,Sí,Si,Otro,14,8,para mejorar el estado físico,5,9,800,Montañera,San Isidro,Sí,No sufro alguno de estos desordenes,Sí,5
+10/06/2021 19:22:09,Hombre,16,80,70,1.60,1.75,Sí,Si,Otro,8,8,para mejorar el estado físico,8,9,1000,Montañera,San Miguel,Sí,No sufro alguno de estos desordenes,Sí,3
+10/06/2021 19:22:54,Mujer,20,57,58.2,1.57,1.57,Sí,No,"Atletismo, Otro",6,8,,,,,,,,Migrañas,Sí,4
+10/06/2021 19:45:36,Hombre,19,58,60,1.70,1.72,No,,,,,,,,,,,,Cansancio,Sí,4
+10/06/2021 20:45:25,Hombre,21,60,64,1.61,1.61,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,3
+10/06/2021 20:52:53,Hombre,21,63,76,1.67,1.67,Sí,Si,"Atletismo, Otro",2,8,de forma recreativa,1,6,200,Montañera,Barranco,Sí,"Migrañas, Insomnio, Cansancio",Sí,3
+10/06/2021 21:05:21,Hombre,18,70,74,1.77,1.77,Sí,No,"Natación, Básquetbol",4,10,,,,,,,,Insomnio,Sí,5
+10/06/2021 21:25:17,Hombre,20,62.5,66,1.68,1.69,Sí,No,"Natación, Otro",3,8,,,,,,,,No sufro alguno de estos desordenes,No,4
+10/06/2021 21:26:20,Mujer,15,50.0,47.0,1.57,1.57,Sí,Si,"Natación, Otro",3,9,de forma recreativa,4,7,0,Montañera,San Martín de Porres,Sí,Insomnio,Sí,5
+10/06/2021 21:36:17,Mujer,21,53,54,1.55,1.55,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",Sí,3
+10/06/2021 21:53:57,Hombre,22,75,78,1.72,1.72,Sí,Si,"Futbol, Otro",8,6,Otro medio de transporte,2,3,800,Rutera,La Victoria,Sí,No sufro alguno de estos desordenes,Sí,2
+10/06/2021 21:54:31,Hombre,17,60.1,61,1.65,1.65,Sí,No,Otro,6,7,,,,,,,,No sufro alguno de estos desordenes,No,4
+10/06/2021 22:00:24,Mujer,12,46.5,41.3,1.53,1.56,Sí,Si,Otro,1,8,para mejorar el estado físico,1,7,200,Montañera,Lurín,Sí,No sufro alguno de estos desordenes,Sí,4
+10/06/2021 22:35:59,Mujer,20,80,83,1.70,1.70,Sí,Si,Otro,0.5,5,de forma recreativa,5,5,500,Montañera,Chorrillos,Sí,Migrañas,No,5
+10/06/2021 23:16:59,Hombre,20,68,72,1.75,1.78,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,4
+6/07/2021 18:45:17,Hombre,19,70,71,1.70,1.70,Sí,Si,Natación,4,5,de forma recreativa,4,5,2500,Montañera,Santiago de Surco,Sí,Cansancio,Sí,5
+6/07/2021 19:04:23,Hombre,21,73,75,1.74,1.74,Sí,Si,Futbol,3,4,Otro medio de transporte,6,8,4000,Montañera,Miraflores,Sí,Insomnio,Sí,6
+7/07/2021 8:05:28,Hombre,55,86,82,1.71,1.71,No,,,,,,,,,,,,Cansancio,Sí,5
+7/07/2021 8:08:59,Mujer,34,54,55,1.54,1.54,Sí,Si,Otro,2,5,Otro medio de transporte,2,4,1000,Montañera,Los Olivos,No,Migrañas,Sí,5
+7/07/2021 11:28:06,Hombre,55,102,107,1.75,1.75,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,1
+7/07/2021 11:33:13,Hombre,57,87.5,96.8,1.7,1.70,Sí,No,Natación,1,6,,,,,,,,No sufro alguno de estos desordenes,,1
+7/07/2021 11:34:07,Hombre,51,,84,1.81,1.81,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,5
+7/07/2021 11:34:53,Mujer,58,64,64,1.72,1.72,Sí,Si,,,,de forma recreativa,2 hora maximo al mes,2,500,Montañera,Miraflores,Sí,"Insomnio, Cansancio",Sí,3
+7/07/2021 11:36:20,Hombre,59,80,83,1:65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,4
+7/07/2021 11:41:04,Hombre,56,100,106,1.65,1.65,Sí,Si,"Futbol, Otro",5,7,Otro medio de transporte,4,6,1200,Montañera,Santiago de Surco,No,No sufro alguno de estos desordenes,No,1
+7/07/2021 11:41:45,Hombre,55,89,79,1.66,1.66,Sí,No,Futbol,0.5,5,,,,,,,,No sufro alguno de estos desordenes,,3
+7/07/2021 11:42:52,Hombre,55,86.5,94.5,1.69,1.69,No,,,,,,,,,,,,Cansancio,Sí,4
+7/07/2021 11:44:21,Hombre,47,100,90,1.76,1.76,Sí,Si,Otro,7,8,por que es ecológico,7,8,2000,Montañera,Santiago de Surco,Sí,Migrañas,No,4
+7/07/2021 11:45:28,Hombre,61,75,78,1.73,1.73,No,,,,,,,,,,,,Insomnio,No,6
+7/07/2021 11:46:06,Hombre,54,86,96,1.78,1.78,No,,,,,,,,,,,,Cansancio,Sí,5
+7/07/2021 11:46:37,Hombre,56,96,80,1.70,1.70,Sí,No,Futbol,0.5,6,,,,,,,,No sufro alguno de estos desordenes,,4
+7/07/2021 11:48:46,Hombre,55,90,88,1.84,1.84,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+7/07/2021 11:48:58,Mujer,52,82,79,1.68,1.68,Sí,Si,,3,8,de forma recreativa,3,8,200,Híbrida,Miraflores,Sí,"Migrañas, Insomnio",Sí,5
+7/07/2021 11:49:47,Hombre,55,72,75,1.71,1.71,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,4
+7/07/2021 11:50:26,Hombre,55,72,73,1.72,1.72,Sí,No,Atletismo,1,6,,,,,,,,No sufro alguno de estos desordenes,Sí,4
+7/07/2021 11:51:52,Mujer,50,68,67,1.65,1.65,No,,,,,,,,,,,,"Migrañas, Insomnio",Sí,5
+7/07/2021 11:53:00,Hombre,61,85,85,1.65,1.65,Sí,No,Futbol,2,5,,,,,,,,Cansancio,Sí,1
+7/07/2021 11:53:24,Hombre,55,80,70.1,1.70,1.70,Sí,Si,"Futbol, Atletismo, Otro",14,10,por que es ecológico,14,8,2000,Uso más de un tipo,Lince,Sí,No sufro alguno de estos desordenes,,6
+7/07/2021 11:53:49,Hombre,55,65,64,1.69,1.69,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,5
+7/07/2021 11:54:18,Hombre,55,95,90,1.70,1.70,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,3
+7/07/2021 11:54:38,Hombre,49,98,96,1.73,1.73,Sí,Si,Otro,8,8,para mejorar el estado físico,8,8,2000,Montañera,San Borja,Sí,No sufro alguno de estos desordenes,,6
+7/07/2021 11:58:33,Hombre,56,96,93,1.65,1.65,Sí,Si,"Natación, Otro",6,7,Otro medio de transporte,4,7,1200,Montañera,San Isidro,Sí,No sufro alguno de estos desordenes,,6
+7/07/2021 11:59:20,Hombre,54,77,78,1.73,1.73,Sí,Si,Otro,3,8,de forma recreativa,Hace tiempo no la uso,4,700,Paseo,San Borja,Sí,No sufro alguno de estos desordenes,,3
+7/07/2021 12:01:09,Mujer,61,65,65,1.60,1.60,No,,,,,,,,,,,,"Migrañas, Insomnio",Sí,6
+7/07/2021 12:01:12,Hombre,56,64,68,1.73,1.73,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,3
+7/07/2021 12:06:00,Hombre,54,95,91.4,1.81,1.81,Sí,Si,Natación,2,7,de forma recreativa,8,10,12000,Montañera,Chorrillos,Sí,No sufro alguno de estos desordenes,No,4
+7/07/2021 12:06:02,Hombre,59,80,81,1.59,1.59,No,,,,,,,,,,,,Cansancio,Sí,5
+7/07/2021 12:06:20,Mujer,54,75,79,1.65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,6
+7/07/2021 12:09:25,Hombre,56,74,71,1.70,1.70,Sí,Si,Atletismo,2,3,Otro medio de transporte,3,5,400,Paseo,La Molina,Sí,No sufro alguno de estos desordenes,No,5
+7/07/2021 12:13:33,Hombre,55,82,78,1.76,1.76,No,,,,,,,,,,,,Cansancio,,4
+7/07/2021 12:13:42,Mujer,56,68,67,1.57,1.57,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,3
+7/07/2021 12:14:29,Mujer,54,62,59,1.62,1.62,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+7/07/2021 12:14:56,Hombre,55,100,106,1.78,1.78,No,,,,,,,,,,,,Insomnio,Sí,6
+7/07/2021 12:18:51,Hombre,50,70,75,1.67,1.67,Sí,Si,Otro,7,6,para mejorar el estado físico,2,6,750,Montañera,Miraflores,Sí,No sufro alguno de estos desordenes,No,1
+7/07/2021 12:19:27,Hombre,55,72,73,1.72,1.72,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,5
+7/07/2021 12:19:54,Hombre,54,90,85,1.82,1.82,Sí,Si,Futbol,6,7,para mejorar el estado físico,10,5,1100,Montañera,San Borja,Sí,Insomnio,Sí,5
+7/07/2021 12:19:59,Hombre,60,83,80,1.76,1.76,Sí,No,Otro,1,7,,,,,,,,No sufro alguno de estos desordenes,No,1
+7/07/2021 12:21:03,Hombre,55,65,60,1.70,1.69,No,,,,,,,,,,,,Insomnio,Sí,2
+7/07/2021 12:23:24,Hombre,54,69,71,1.70,1.70,Sí,Si,Otro,4,4,de forma recreativa,4,4,1200,Montañera,San Martín de Porres,No,No sufro alguno de estos desordenes,Sí,3
+7/07/2021 12:37:12,Hombre,27,85,90,1.78,1.78,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,6
+7/07/2021 12:44:43,Hombre,60,70,70,1.65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,3
+7/07/2021 12:47:12,Hombre,48,94,93,1.78,1.78,Sí,Si,,,,para mejorar el estado físico,4,9,4000,Montañera,Miraflores,Sí,No sufro alguno de estos desordenes,No,2
+7/07/2021 13:02:32,Mujer,21,70,79,1.59,1.59,No,,,,,,,,,,,,Cansancio,Sí,3
+7/07/2021 13:10:37,Mujer,42,62,58,1.57,1.57,Sí,Si,,8,9,de forma recreativa,8,9,500,Montañera,Ate Vitarte,No,No sufro alguno de estos desordenes,,6
+7/07/2021 13:20:07,Hombre,60,75,78,1.75,1.75,Sí,Si,Otro,1,4,Otro medio de transporte,2,4,1600,Montañera,San Isidro,Sí,No sufro alguno de estos desordenes,,1
+7/07/2021 13:29:39,Hombre,51,123,106.5,1.78,1.78,Sí,Si,Otro,0.5,8,para mejorar el estado físico,4,10,600,Montañera,San Borja,Sí,Insomnio,Sí,6
+7/07/2021 13:33:34,Hombre,47,72,73,1.73,1.73,Sí,No,Otro,4,4,,,,,,,,No sufro alguno de estos desordenes,No,1
+7/07/2021 13:35:01,Hombre,40,109,109,1.90,1.9,Sí,Si,"Natación, Futbol",3,8,de forma recreativa,2,4,700,Montañera,San Borja,No,No sufro alguno de estos desordenes,,6
+7/07/2021 13:35:07,Hombre,49,86,83,1.72,1.72,Sí,No,Atletismo,2,5,,,,,,,,Insomnio,Sí,3
+7/07/2021 13:55:10,Hombre,66,70,70,1.73,1.73,Sí,Si,Otro,4,5,de forma recreativa,0.5,2,2000,Montañera,San Isidro,Sí,No sufro alguno de estos desordenes,,1
+7/07/2021 14:06:59,Hombre,55,80,85,1.70,1.70,Sí,No,Atletismo,3,9,,,,,,,,Insomnio,,4
+7/07/2021 14:15:12,Hombre,55,70,70,1.70,1.70,Sí,No,"Futbol, Otro",2,6,,,,,,,,No sufro alguno de estos desordenes,,2
+7/07/2021 14:20:48,Mujer,52,74,70,1.55,1.55,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,2
+7/07/2021 14:37:26,Hombre,52,71,73,1.73,1.73,No,,,,,,,,,,,,Cansancio,No,4
+7/07/2021 14:40:18,Mujer,50,60,60,1.68,1.68,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,5
+7/07/2021 14:42:06,Hombre,48,73,75,1.77,1.77,Sí,Si,Otro,3,8,por que es ecológico,1,4,1000,Montañera,Santiago de Surco,No,Migrañas,Sí,4
+7/07/2021 14:52:41,Hombre,55,79,76,1.73,1.73,Sí,Si,Otro,0.5,5,de forma recreativa,0.5,5,800,Uso más de un tipo,Jesús María,Sí,No sufro alguno de estos desordenes,,4
+7/07/2021 14:54:54,Hombre,55,72,70,1.67,1.67,Sí,Si,"Atletismo, Otro",3,9,de forma recreativa,0.5,2,1500,BMX,San Miguel,Sí,No sufro alguno de estos desordenes,,1
+7/07/2021 14:58:34,Hombre,41,72,74,1.72,1.72,Sí,No,Otro,4,8,,,,,,,,No sufro alguno de estos desordenes,,1
+7/07/2021 15:27:05,Hombre,64,70,67,1.65,1.65,Sí,Si,Natación,5,4,de forma recreativa,2,4,2.500,Rutera,Santiago de Surco,Sí,No sufro alguno de estos desordenes,,2
+7/07/2021 15:39:08,Hombre,65,73,75,1.65,1.65 ,Sí,No,Otro,1,2,,,,,,,,No sufro alguno de estos desordenes,,1
+7/07/2021 15:40:10,Mujer,35,48,50,1.63,1.63,Sí,No,Otro,4,5,,,,,,,,"Insomnio, Cansancio",Sí,6
+7/07/2021 15:47:05,Hombre,57,87.5,96.8,1.7,1.70,Sí,No,Natación,1,6,,,,,,,,No sufro alguno de estos desordenes,,1
+7/07/2021 16:10:56,Hombre,55,81,91,1.77,1.77,No,,,,,,,,,,,,Insomnio,Sí,4
+7/07/2021 16:19:04,Hombre,55,85,85,1.78,1.78,Sí,No,Futbol,1,7,,,,,,,,No sufro alguno de estos desordenes,,1
+7/07/2021 16:26:18,Hombre,47,97,94,1.74,1.74,No,,,,,,,,,,,,Insomnio,Sí,1
+7/07/2021 16:43:31,Mujer,64,83,74,1.65,1.65,No,,,,,,,,,,,,Insomnio,Sí,2
+7/07/2021 16:47:47,Hombre,55,88,85,1.72,1.72,Sí,Si,Otro,4,8,para mejorar el estado físico,4,8,1000,Montañera,La Molina,Sí,No sufro alguno de estos desordenes,,5
+7/07/2021 17:00:37,Mujer,52,68,63,1.53,1.53,Sí,Si,,,,para mejorar el estado físico,3,3,400,Montañera,Miraflores,Sí,No sufro alguno de estos desordenes,,5
+7/07/2021 17:12:52,Hombre,49,76,78,1.70,1.70,Sí,Si,Otro,15 hr,6,Otro medio de transporte,15 hr,8,2000,Montañera,Barranco,Sí,No sufro alguno de estos desordenes,Sí,6
+7/07/2021 17:13:52,Hombre,55,70,70,1.68,1.68,Sí,Si,"Básquetbol, Futbol, Otro",2,6,para mejorar el estado físico,1,4,"1,500 soles",Montañera,San Borja,Sí,Cansancio,No,5
+7/07/2021 17:33:06,Hombre,55,95,77,1.71,1.71,Sí,Si,Otro,8,10,para mejorar el estado físico,8,10,2500,Montañera,Lima,Sí,No sufro alguno de estos desordenes,Sí,5
+7/07/2021 18:13:56,Hombre,54,95,93,1.62,1.62,Sí,Si,Otro,1,3,de forma recreativa,0.5,4,1500,Montañera,Santiago de Surco,Sí,Insomnio,Sí,2
+7/07/2021 18:18:48,Hombre,54,95,93,1.62,1.62,Sí,Si,Otro,1,3,de forma recreativa,0.5,4,1500,Montañera,Santiago de Surco,Sí,Insomnio,Sí,2
+7/07/2021 18:59:53,Hombre,24,60,62,1. 63,1.63,Sí,Si,Otro,6,7,para mejorar el estado físico,6,7,35000,Montañera,Chorrillos,No,Cansancio,Sí,4
+7/07/2021 21:57:14,Mujer,55,51,51,1.53,1.53,Sí,No,Otro,5,9,,,,,,,,No sufro alguno de estos desordenes,,3
+8/07/2021 2:39:12,Hombre,23,79,81,1.73,1.73,No,,,,,,,,,,,,"Migrañas, Cansancio",Sí,3
+8/07/2021 2:41:26,Hombre,19,76,76,1.68,1.70,Sí,Si,"Futbol, Atletismo",3,7,de forma recreativa,3,7,980,Paseo,Chorrillos,Sí,No sufro alguno de estos desordenes,,5
+8/07/2021 8:08:53,Mujer,50,73,70,1.68,1.68,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,1
+8/07/2021 12:13:02,Hombre,19,64,56.5,1.70,1.74,Sí,Si,,4,6,para mejorar el estado físico,4,6,700,BMX,Miraflores,Sí,"Insomnio, Cansancio",Sí,4
+8/07/2021 12:29:21,Mujer,22,65,55,1.63,1.63,Sí,Si,Otro,1,8,de forma recreativa,1,4,1500,Montañera,Miraflores,Sí,No sufro alguno de estos desordenes,,5
+8/07/2021 13:15:02,Hombre,64,70,67,1.65,1.65,Sí,Si,Natación,5,4,de forma recreativa,2,4,2.500,Rutera,Santiago de Surco,Sí,No sufro alguno de estos desordenes,,2
+8/07/2021 16:08:53,Mujer,51,65,60,1.60,1.60,Sí,Si,"Natación, Otro",5,7,de forma recreativa,3,6,700,Montañera,Santiago de Surco,No,No sufro alguno de estos desordenes,,4
+8/07/2021 16:09:29,Mujer,55,51,53,1.56,1.56,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+8/07/2021 16:11:07,Mujer,51,75,78,1.61,1.61,No,,,,,,,,,,,,Insomnio,No,3
+8/07/2021 16:12:28,Mujer,52,74,78,1.68,1.68,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",Sí,4
+8/07/2021 16:14:59,Mujer,36,66,62,1.53,1.53,Sí,Si,Otro,3,6,por que es ecológico,4,2,700,Paseo,Miraflores,Sí,No sufro alguno de estos desordenes,,3
+8/07/2021 16:17:36,Mujer,50,80,85,1.74,1.74,No,,,,,,,,,,,,Cansancio,Sí,5
+8/07/2021 16:18:50,Mujer,34,50,53,1.56,1.56,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",Sí,3
+8/07/2021 16:20:01,Mujer,61,64,67,1.64,1.64,Sí,Si,Otro,8,7,de forma recreativa,4,5,00,Paseo,Santiago de Surco,No,No sufro alguno de estos desordenes,,3
+8/07/2021 16:21:17,Hombre,56,76,78,1.65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,6
+8/07/2021 16:24:23,Hombre,60,94,92,1.78,1.78,No,,,,,,,,,,,,Cansancio,No,4
+8/07/2021 16:24:27,Hombre,56,99.5,97,1.87,1.87,Sí,Si,Atletismo,4,9,Otro medio de transporte,5,8,1800,Montañera,San Borja,Sí,No sufro alguno de estos desordenes,Sí,5
+8/07/2021 16:24:44,Hombre,25,100,95,1.74,1.74,No,,,,,,,,,,,,Insomnio,No,4
+8/07/2021 16:25:36,Mujer,60,60,60,1.61,1.61,No,,,,,,,,,,,,Insomnio,Sí,3
+8/07/2021 16:29:18,Hombre,27,67,71,1.68,1.68,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+8/07/2021 16:29:43,Hombre,60,85,86,1.68,1.68,Sí,No,Otro,2,8,,,,,,,,No sufro alguno de estos desordenes,No,4
+8/07/2021 16:30:29,Hombre,26,63,69,1.68,1.67,No,,,,,,,,,,,,Cansancio,Sí,5
+8/07/2021 16:31:43,Mujer,58,73,75,1.61,1.61,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,5
+8/07/2021 16:31:56,Mujer,58,54,56,1.63,1.63,No,,,,,,,,,,,,Cansancio,No,4
+8/07/2021 16:36:12,Mujer,58,69,70,1.60,1.60,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,1
+8/07/2021 16:37:37,Hombre,44,68,72,1.59,1.59,Sí,Si,Futbol,1,5,para mejorar el estado físico,1,3,s/. 10,Montañera,San Juan de Lurigancho,No,Cansancio,Sí,2
+8/07/2021 16:40:48,Mujer,51,61,74,1.64,1.64,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,2
+8/07/2021 16:42:20,Mujer,48,54,54,1.63,1.63,No,,,,,,,,,,,,Cansancio,Sí,1
+8/07/2021 16:43:02,Hombre,37,55.5,60,1.69,1.69,Sí,Si,"Natación, Otro",3,8,para mejorar el estado físico,6,8,360,Montañera,Miraflores,Sí,No sufro alguno de estos desordenes,,4
+8/07/2021 16:44:23,Hombre,60,93,88,1.87,1.87,Sí,Si,Otro,6,7,para mejorar el estado físico,4,9,11,Montañera,Santiago de Surco,No,No sufro alguno de estos desordenes,,1
+8/07/2021 16:45:55,Mujer,54,75,76,1.56,1.56,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,5
+8/07/2021 16:48:52,Hombre,59,83,80,1.72,1.72,Sí,Si,,4,8,para mejorar el estado físico,7,9,S/ 8000,Montañera,La Molina,Sí,No sufro alguno de estos desordenes,,5
+8/07/2021 16:49:16,Hombre,49,69.8,70,1.68,1.68,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,5
+8/07/2021 16:49:36,Hombre,33,85,85,1.73,1.73,Sí,Si,,,,Otro medio de transporte,4,7,600,Montañera,San Miguel,Sí,No sufro alguno de estos desordenes,,1
+8/07/2021 16:50:50,Mujer,55,70,75,1.60,1.58,No,,,,,,,,,,,,Cansancio,Sí,5
+8/07/2021 16:52:12,Hombre,60,88,89,1.74,1.74,No,,,,,,,,,,,,Cansancio,Sí,4
+8/07/2021 16:53:00,Hombre,45,78,75,1.80,1.80,Sí,Si,"Futbol, Otro",3,8,de forma recreativa,7,8,10000,Montañera,Barranco,Sí,No sufro alguno de estos desordenes,,5
+8/07/2021 16:55:15,Hombre,35,80,80,1.78,1.78,Sí,Si,"Futbol, Otro",7,10,para mejorar el estado físico,3,10,1700,Montañera,Miraflores,Sí,No sufro alguno de estos desordenes,,5
+8/07/2021 16:55:37,Mujer,51,55,57,1.55,1.55,Sí,No,Otro,2,5,,,,,,,,Migrañas,No,1
+8/07/2021 17:04:35,Mujer,53,87,79,1.65,1.65,Sí,No,Otro,6,9,,,,,,,,No sufro alguno de estos desordenes,,5
+8/07/2021 17:17:31,Mujer,50,48,49,1.56,1.56,Sí,Si,Atletismo,3,4,de forma recreativa,1,2,Ya tenia,Rutera,Santiago de Surco,Sí,No sufro alguno de estos desordenes,,2
+8/07/2021 17:17:46,Mujer,51,56,58,1.60,1.60,No,,,,,,,,,,,,Insomnio,Sí,3
+8/07/2021 17:19:49,Mujer,46,70,67,1.60,1.60,Sí,Si,Otro,4,7,Otro medio de transporte,7,5,250,Montañera,Lince,Sí,No sufro alguno de estos desordenes,,6
+8/07/2021 17:22:53,Mujer,52,58,54,1.58,1.58,Sí,No,Otro,5,8,,,,,,,,Migrañas,Sí,2
+8/07/2021 17:27:05,Mujer,48,55,55,1.59,1.59,Sí,No,Otro,7,4,,,,,,,,"Insomnio, Cansancio",No,1
+8/07/2021 17:27:11,Mujer,20,50,46,1.51,1.51,No,,,,,,,,,,,,Insomnio,Sí,2
+8/07/2021 17:27:48,Mujer,50,60,65,1.55,1.55,Sí,No,Otro,6,5,,,,,,,,No sufro alguno de estos desordenes,,3
+8/07/2021 17:29:47,Mujer,53,53,55,1.55,1.55,Sí,Si,Otro,4,5,para mejorar el estado físico,2,5,0,Paseo,Pachacamac,No,Cansancio,Sí,5
+8/07/2021 17:29:52,Mujer,51,64,65,1.56,1.56,Sí,Si,Otro,4,3,Otro medio de transporte,3,3,500,Paseo,Santiago de Surco,Sí,"Migrañas, Insomnio, Cansancio",Sí,3
+8/07/2021 17:34:24,Mujer,54,65,65,1.67,1.67,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+8/07/2021 17:35:51,Mujer,52,60,65,1.60,1.60,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,5
+8/07/2021 17:44:13,Hombre,62,64,64,1.65 ,1.64 ,Sí,Si,Otro,2,7,para mejorar el estado físico,6,7,1.300.00,Montañera,Barranco,Sí,No sufro alguno de estos desordenes,Sí,4
+8/07/2021 18:18:00,Hombre,60,90,95,1.80,1.80,Sí,No,Otro,5,9,,,,,,,,Insomnio,Sí,5
+8/07/2021 18:21:48,Hombre,60,106,108,1.83,1.83,Sí,Si,Natación,5,4,de forma recreativa,3,4,2500,Montañera,Santiago de Surco,Sí,No sufro alguno de estos desordenes,Sí,3
+8/07/2021 18:41:14,Hombre,60,80,84,1.79,1.78,Sí,Si,"Futbol, Otro",0.5,6,Otro medio de transporte,0.5,1,1200,Montañera,Santiago de Surco,Sí,No sufro alguno de estos desordenes,,4
+8/07/2021 18:44:44,Mujer,47,62,62.5 ,1.60,1.60,No,,,,,,,,,,,,"Migrañas, Insomnio",Sí,5
+8/07/2021 18:48:25,Hombre,30,67,68,1.73,1.73,No,,,,,,,,,,,,Cansancio,Sí,2
+8/07/2021 18:48:52,Mujer,53,64,66,1.57,1.57,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,6
+8/07/2021 18:50:22,Hombre,62,83,85,1.77,1.77,Sí,Si,Otro,5,7,Otro medio de transporte,5,7,1200,Montañera,San Borja,Sí,No sufro alguno de estos desordenes,Sí,6
+8/07/2021 18:51:21,Mujer,48,56,56,1.60,1.60,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",No,5
+8/07/2021 18:54:23,Mujer,54,54,55,1.61,1.61,No,,,,,,,,,,,,Insomnio,Sí,4
+8/07/2021 18:55:53,Mujer,60,57,58.5,1.56,1.56,Sí,Si,Otro,3,3,de forma recreativa,2,3,1100,Paseo,Santiago de Surco,Sí,No sufro alguno de estos desordenes,,4
+8/07/2021 18:58:28,Mujer,59,67,64,1.58,1.55,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,5
+8/07/2021 18:58:34,Mujer,21,48,50,1.51,1.51,No,,,,,,,,,,,,"Migrañas, Insomnio, Cansancio",,4
+8/07/2021 19:00:28,Mujer,50,49,49,1.56 ,1.56 ,Sí,No,Otro,1 h.30 m,1,,,,,,,,Migrañas,Sí,3
+8/07/2021 19:02:13,Hombre,64,82,75,1.70,1.70,Sí,Si,"Natación, Atletismo, Otro",6,7,por que es ecológico,2,7,"2,5",Híbrida,Santiago de Surco,No,No sufro alguno de estos desordenes,,6
+8/07/2021 19:14:01,Hombre,60,77,77,1.72,1.72,No,,,,,,,,,,,,"Insomnio, Cansancio",Sí,6
+8/07/2021 19:14:09,Mujer,19,65,66,1.70,1.70,Sí,Si,Otro,0.5,2,de forma recreativa,2,4,780,Paseo,San Martín de Porres,Sí,Cansancio,No,2
+8/07/2021 19:19:56,Mujer,48,74,66,1.60,1.60,Sí,No,Otro,3,3,,,,,,,,No sufro alguno de estos desordenes,No,6
+8/07/2021 19:20:45,Mujer,60,52,53,1.63,1.63,Sí,Si,Otro,4,4,para mejorar el estado físico,2,7,1500,BMX,Santiago de Surco,No,No sufro alguno de estos desordenes,,1
+8/07/2021 19:22:29,Mujer,43,54,54,1.63,1.63,Sí,No,Otro,5,4,,,,,,,,No sufro alguno de estos desordenes,,4
+8/07/2021 19:22:58,Mujer,57,83,73,1.60,1.60,No,,,,,,,,,,,,Insomnio,Sí,4
+8/07/2021 19:59:52,Mujer,53,60,58,1.70,1.70,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,6
+8/07/2021 20:08:54,Hombre,30,64,72,1.70,1.70,Sí,Si,Futbol,1,7,Otro medio de transporte,0.5,9,700,Montañera,Villa El Salvador,No,No sufro alguno de estos desordenes,Sí,4
+8/07/2021 20:10:12,Mujer,13,56,49.7,1.53,1.54,No,,,,,,,,,,,,Cansancio,Sí,5
+8/07/2021 20:20:08,Mujer,21,45,45,1.50,1.50,No,,,,,,,,,,,,"Migrañas, Cansancio",Sí,1
+8/07/2021 20:48:43,Hombre,55,80,85,1.70,1.70,Sí,Si,Otro,2,2,de forma recreativa,2,2,1500,Montañera,Santiago de Surco,Sí,Insomnio,Sí,4
+8/07/2021 20:50:28,Hombre,33,80,83,1.65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+8/07/2021 20:58:23,Mujer,46,80,84,1.56,1.56,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,3
+8/07/2021 21:12:22,Mujer,53,55.3,56.1,1.62,1.62,Sí,Si,Otro,5,7,para mejorar el estado físico,5,7,1800,Spining,Lince,Sí,No sufro alguno de estos desordenes,,5
+8/07/2021 21:24:57,Mujer,57,55,55,1.58,1.57,No,,,,,,,,,,,,No sufro alguno de estos desordenes,No,6
+8/07/2021 21:25:48,Mujer,50,69,75,1.65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+8/07/2021 21:47:10,Mujer,60,65,60,1.65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+8/07/2021 21:48:45,Mujer,51,65,60,1.60,1.60,Sí,Si,"Natación, Otro",5,7,de forma recreativa,3,6,700,Montañera,Santiago de Surco,No,No sufro alguno de estos desordenes,,4
+8/07/2021 22:00:44,Mujer,62,68,65,1.55,1.55,No,,,,,,,,,,,,Insomnio,,2
+8/07/2021 22:10:46,Mujer,58,54,56,1.63,1.63,No,,,,,,,,,,,,Cansancio,No,4
+8/07/2021 23:05:20,Hombre,62,72,72,1.75,1.75,Sí,Si,,minimo 12 horas a la semana,5,para mejorar el estado físico,minimo 12 horas a la semana,5,100 dolares,Montañera,Santiago de Surco,Sí,No sufro alguno de estos desordenes,No,5
+9/07/2021 0:28:55,Mujer,47,65,62,1.60,1.60,No,,,,,,,,,,,,Migrañas,Sí,5
+9/07/2021 0:46:18,Hombre,60,93,89,1.68,1.68,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,6
+9/07/2021 1:00:31,Mujer,58,54,56,1.63,1.63,No,,,,,,,,,,,,Cansancio,No,4
+9/07/2021 5:13:39,Mujer,60,51,51,1.58 ,1.58 ,Sí,No,Otro,5,8,,,,,,,,No sufro alguno de estos desordenes,,6
+9/07/2021 6:02:29,Mujer,52,82,79,1.68,1.68,Sí,Si,,3,8,de forma recreativa,3,8,200,Híbrida,Miraflores,Sí,"Migrañas, Insomnio",Sí,5
+9/07/2021 6:03:05,Mujer,52,82,79,1.68,1.68,Sí,Si,,3,8,de forma recreativa,3,8,200,Híbrida,Miraflores,Sí,"Migrañas, Insomnio",Sí,5
+9/07/2021 7:48:17,Mujer,55,60,63,1.58,1.58,Sí,Si,Otro,0.5,6,para mejorar el estado físico,2,6,500,Paseo,Miraflores,Sí,Insomnio,No,5
+9/07/2021 9:00:25,Mujer,64,45,45,1.50,1.50,Sí,No,"Atletismo, Otro",2,5,,,,,,,,Cansancio,Sí,5
+9/07/2021 10:21:07,Hombre,56,84,80,1.70,1.70,Sí,Si,Atletismo,Eventual ,5,de forma recreativa,Actualmente no,1,Muy poco lo tengo de años ,Paseo,San Miguel,Sí,No sufro alguno de estos desordenes,No,1
+9/07/2021 10:40:43,Hombre,55,75,79,1.70,1.70,No,,,,,,,,,,,,Insomnio,Sí,5
+9/07/2021 11:28:14,Mujer,58,59,61,1.50,1.50,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,4
+9/07/2021 11:31:33,Mujer,49,68.3,64,1.58,1.58,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,5
+9/07/2021 11:39:13,Hombre,63,79.5,69.5,1.66,1.66,Sí,Si,Otro,Caminatas de 1/2 hora ,6,Otro medio de transporte,2,6,800.00,Paseo,Jesús María,Sí,No sufro alguno de estos desordenes,,5
+9/07/2021 11:48:32,Mujer,50,62,62,1.60,1.60,Sí,Si,Otro,3,7,de forma recreativa,3,8,1200,Montañera,Magdalena del Mar,No,No sufro alguno de estos desordenes,,6
+9/07/2021 12:50:29,Hombre,58,89,85,1.75,1.75,Sí,No,Otro,Fulbito,4,,,,,,,,Insomnio,Sí,2
+9/07/2021 14:03:46,Hombre,54,106,98,1.83,1.83,No,,,,,,,,,,,,Migrañas,,4
+9/07/2021 14:26:48,Mujer,44,77,71,1.63,1.63,No,,,,,,,,,,,,Insomnio,Sí,4
+9/07/2021 14:32:18,Hombre,52,82,79,1.65,1.65,No,,,,,,,,,,,,No sufro alguno de estos desordenes,Sí,1
+9/07/2021 15:50:56,Hombre,35,84,81,1.70,1.70,Sí,Si,Otro,5,4,para mejorar el estado físico,4,4,400,Montañera,Magdalena del Mar,Sí,"Migrañas, Insomnio, Cansancio",Sí,2
+9/07/2021 16:22:04,Mujer,31,78,69,1.59,1.59,Sí,Si,"Natación, Atletismo, Otro",8,8,Otro motivo,3,7,6000,Bicicleta de Tri,Chorrillos,Sí,Cansancio,Sí,3
+9/07/2021 16:51:23,Hombre,47,71,70,1.72,1.72,Sí,Si,"Futbol, Otro",5,8,de forma recreativa,1,6,800,Montañera,San Borja,Sí,No sufro alguno de estos desordenes,Sí,5
+9/07/2021 19:22:42,Mujer,43,54,54,1.63,1.63,Sí,No,Otro,5,4,,,,,,,,No sufro alguno de estos desordenes,,4
+9/07/2021 20:04:57,Mujer,48,56,62,1.57,1.57,No,,,,,,,,,,,,No sufro alguno de estos desordenes,,6
+10/07/2021 12:00:58,Mujer,18,57,53.5,1.68,1.70,Sí,Si,,,,de forma recreativa,3,6,750,Paseo,Comas,No,Migrañas,Sí,4
+10/07/2021 12:03:32,Mujer,19,54,50.5,1.67,1.69,Sí,Si,Atletismo,2,5,para mejorar el estado físico,3,7,800,BMX,Chorrillos,Sí,"Insomnio, Cansancio",Sí,5
+10/07/2021 12:05:06,Hombre,22,68.5,62,1.76,1.79,Sí,Si,"Básquetbol, Futbol",6,7,para mejorar el estado físico,4,9,1200,BMX,Miraflores,Sí,Cansancio,Sí,6
+10/07/2021 12:06:50,Hombre,21,65.4,61,1.78,1.81,Sí,Si,Básquetbol,3,6,de forma recreativa,2,5,800,Montañera,Carabayllo,No,Insomnio,No,4
+10/07/2021 12:10:43,Mujer,18,54.5,51,1.70,1.73,Sí,Si,Atletismo,5,5,Otro medio de transporte,4,6,450,Paseo,Pueblo Libre,Sí,"Migrañas, Cansancio",Sí,6
+10/07/2021 12:13:23,Mujer,18,62.5,56,1.70,1.74,Sí,Si,"Natación, Atletismo",5,8,para mejorar el estado físico,6,7,650,Montañera,Santiago de Surco,Sí,No sufro alguno de estos desordenes,Sí,4
+10/07/2021 12:16:16,Hombre,21,56,53.5,1.73,1.76,Sí,Si,"Básquetbol, Futbol",3,7,por que es ecológico,5,6,400,Híbrida,Pueblo Libre,Sí,Insomnio,Sí,4
+10/07/2021 12:17:16,Mujer,19,56.7,50.5,1.68,1.71,Sí,Si,Atletismo,5,7,por que es ecológico,4,6,650,Paseo,Los Olivos,Sí,Insomnio,Sí,6
+10/07/2021 12:18:45,Hombre,18,63.5,58,1.70,1.72,Sí,Si,Otro,4,5,para mejorar el estado físico,4,6,1300,Montañera,La Molina,Sí,Cansancio,Sí,5
+10/07/2021 12:19:42,Hombre,19,64.5,60,1.73,1.76,Sí,Si,Básquetbol,4,7,para mejorar el estado físico,6,6,500,BMX,San Borja,Sí,No sufro alguno de estos desordenes,Sí,5
+10/07/2021 12:28:19,Mujer,18,67,63.5,1.71,1.72,Sí,Si,"Futbol, Atletismo",4,4,Otro medio de transporte,4,6,750,Paseo,Cieneguilla,No,Migrañas,Sí,5
+10/07/2021 12:29:23,Mujer,23,56,54.5,1.75,1.75,Sí,Si,Otro,3,6,Otro medio de transporte,3,5,400,Paseo,Independencia,Sí,Cansancio,Sí,4
+10/07/2021 12:33:12,Mujer,26,64,62,1.72,1.72,Sí,Si,Otro,2,4,Otro medio de transporte,3,5,350,Paseo,Miraflores,Sí,No sufro alguno de estos desordenes,Sí,4
+10/07/2021 12:34:24,Mujer,22,57,56,1.70,1.70,Sí,Si,Otro,2,4,de forma recreativa,3,6,400,Paseo,Lince,Sí,Migrañas,Sí,4
+10/07/2021 12:35:53,Hombre,24,60.5,58,1.76,1.77,Sí,Si,"Futbol, Atletismo",4,5,para mejorar el estado físico,5,7,600,BMX,San Isidro,Sí,No sufro alguno de estos desordenes,Sí,5
+10/07/2021 12:37:28,Hombre,21,65.5,63.5,1.77,1.77,Sí,Si,"Básquetbol, Futbol",4,6,para mejorar el estado físico,4,5,500,Híbrida,Miraflores,Sí,"Migrañas, Insomnio",Sí,5
+10/07/2021 12:38:39,Hombre,23,68.5,64,1.78,1.78,Sí,Si,Básquetbol,4,5,de forma recreativa,5,7,800,Híbrida,San Borja,Sí,"Insomnio, Cansancio",Sí,5
+10/07/2021 13:15:15,Mujer,25,68,65.5,1.72,1.72,Sí,Si,Atletismo,5,5,Otro medio de transporte,4,5,450,Híbrida,La Molina,Sí,Insomnio,Sí,5
+10/07/2021 13:16:25,Hombre,26,66,62,1.77,1.77,Sí,Si,Futbol,3,7,de forma recreativa,3,5,350,Híbrida,Miraflores,Sí,Cansancio,Sí,5
+10/07/2021 13:17:54,Mujer,19,54,53,1.68,1.69,Sí,Si,Otro,2,4,de forma recreativa,3,4,400,Montañera,Comas,No,Insomnio,Sí,4
+10/07/2021 13:19:20,Hombre,23,68.7,65.5,1.76,1.77,Sí,Si,"Futbol, Otro",4,5,de forma recreativa,3,7,1200,BMX,Pueblo Libre,Sí,Insomnio,Sí,5
+10/07/2021 13:20:39,Hombre,30,68,66,1.79,1.79,Sí,Si,Futbol,4,6,Otro medio de transporte,4,6,1300,Montañera,San Juan de Lurigancho,Sí,No sufro alguno de estos desordenes,Sí,4
+10/07/2021 13:22:24,Hombre,22,66,64.5,1.78,1.79,Sí,Si,Básquetbol,4,6,Otro medio de transporte,4,6,650,BMX,Miraflores,Sí,No sufro alguno de estos desordenes,Sí,4
+10/07/2021 13:24:29,Mujer,32,67.5,65,1.72,1.72,Sí,Si,Otro,3,3,de forma recreativa,4,6,1000,BMX,Miraflores,Sí,Migrañas,Sí,6
+10/07/2021 13:25:42,Hombre,35,69,66,1.82,1.82,Sí,Si,Futbol,4,8,para mejorar el estado físico,4,8,1300,BMX,Pueblo Libre,Sí,Cansancio,Sí,6
+10/07/2021 13:27:52,Mujer,21,66,63.5,1.68,1.68,Sí,Si,Otro,4,7,de forma recreativa,5,8,650,Paseo,San Borja,Sí,Cansancio,Sí,5
+10/07/2021 13:29:18,Hombre,28,67,65,1.76,1.77,Sí,Si,"Natación, Futbol",5,8,para mejorar el estado físico,4,7,1300,BMX,San Isidro,Sí,Cansancio,Sí,5
+10/07/2021 13:35:23,Hombre,26,75,70,1.79,1.79,Sí,Si,Futbol,4,7,de forma recreativa,3,7,800,BMX,Cieneguilla,No,Cansancio,Sí,5
+10/07/2021 13:36:38,Hombre,25,78.5,76,1.77,1.77,Sí,Si,Futbol,3,6,de forma recreativa,3,5,650,BMX,Rímac,No,"Migrañas, Cansancio",Sí,6
+10/07/2021 13:38:26,Hombre,27,64.5,62,1.73,1.73,Sí,Si,"Futbol, Otro",3,5,Otro medio de transporte,3,6,750,Paseo,Surquillo,Sí,Cansancio,Sí,5
+10/07/2021 13:40:11,Mujer,20,63,61,1.69,1.71,Sí,Si,Otro,3,6,de forma recreativa,4,6,1300,BMX,San Isidro,Sí,Insomnio,Sí,6
+10/07/2021 18:44:19,Hombre,25,57,56,1.60,1.60,Sí,Si,Otro,6,8,Otro medio de transporte,10,8,3500,Montañera,Miraflores,Sí,Migrañas,Sí,3
+10/07/2021 18:45:19,Mujer,36,60,63,1.54,1.54,No,,,,,,,,,,,,Insomnio,Sí,5
+10/07/2021 18:47:56,Hombre,47,90,85,1.76,1.76,Sí,Si,,7,6,para mejorar el estado físico,6,7,1200,Montañera,Chorrillos,No,No sufro alguno de estos desordenes,,4
+10/07/2021 18:59:49,Mujer,52,82,79,1.68,1.68,Sí,Si,,3,8,de forma recreativa,3,8,200,Híbrida,Miraflores,Sí,"Migrañas, Insomnio",Sí,5
+12/07/2021 12:22:28,Hombre,36,68,66.5,1.77,1.77,Sí,Si,Futbol,1,3,Otro medio de transporte,2,4,600,BMX,Chorrillos,Sí,No sufro alguno de estos desordenes,Sí,4
+12/07/2021 12:23:29,Mujer,22,65.5,63,1.71,1.72,Sí,Si,Otro,3,4,por que es ecológico,3,6,850,Paseo,San Borja,Sí,Cansancio,Sí,5
+12/07/2021 12:24:31,Mujer,27,63,62,1.7,1.7,Sí,Si,Otro,2,6,para mejorar el estado físico,3,6,650,BMX,Santiago de Surco,Sí,"Migrañas, Insomnio",Sí,5
+12/07/2021 12:26:00,Mujer,24,64,61,1.68,1.68,Sí,Si,Otro,2,4,de forma recreativa,3,4,1200,Paseo,Pueblo Libre,Sí,"Migrañas, Cansancio",Sí,4
+12/07/2021 12:27:36,Hombre,30,62.5,61,1.78,1.78,Sí,Si,"Básquetbol, Futbol",4,6,para mejorar el estado físico,4,6,1300,Montañera,Puente Piedra,No,Migrañas,Sí,4
+12/07/2021 12:28:51,Hombre,26,68.5,66.5,1.81,1.81,Sí,Si,Futbol,3,5,Otro medio de transporte,3,5,1000,Montañera,Santiago de Surco,Sí,Insomnio,Sí,6
+12/07/2021 12:32:11,Mujer,27,67.5,63,1.70,1.70,Sí,Si,Otro,4,6,para mejorar el estado físico,4,5,650,Montañera,Santa Anita,No,Cansancio,Sí,5
+12/07/2021 12:33:33,Mujer,21,64,62.5,1.68,1.69,Sí,Si,Otro,4,6,de forma recreativa,4,5,700,Paseo,Comas,Sí,Cansancio,Sí,4
+12/07/2021 12:34:34,Hombre,34,68,65,1.78,1.78,Sí,Si,"Básquetbol, Futbol",3,7,de forma recreativa,5,7,1400,BMX,San Martín de Porres,Sí,"Insomnio, Cansancio",Sí,5
+12/07/2021 12:41:53,Hombre,32,56.5,58.5,1.79,1.79,Sí,Si,Futbol,3,6,de forma recreativa,4,6,1200,BMX,Chorrillos,Sí,Cansancio,Sí,4
